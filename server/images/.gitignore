@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!/user
+user/*
+!/user/default-profile.png
+!/user/seed-user11650100624104.jpg
+!/user/seed-user21650100892532.png
+!/article
+article/*
+!/article/seed-article11650100712938.jpg
+!/article/seed-article21650100728175.png
